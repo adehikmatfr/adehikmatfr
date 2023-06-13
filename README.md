@@ -1,53 +1,47 @@
-### Hallo coders, nama saya Ade Hikmat ini akun kedua github saya - [adehikmatfr][linkedin] 👋
-![Ade Hikmat FR](https://github-readme-stats.vercel.app/api?username=adehikmatfr&show_icons=true&theme=tokyonight)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adehikmatfr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+# Hallo coders! 👋
 
-## saya adalah full stack developer!
+My name is Ade Hikmat, and this is my primary GitHub account.
 
-- 🦸‍♂ saya sekarang bekerja sebagai [freelancer][linkedin]!
-- 🌱 Saya sedang mempelajari segalanya 🤣
-- 👯 Saya ingin berkolaborasi dengan pembuat konten lain
-- 🥅 Sasaran 2020: pokus menitih karir sebagai programmer 😊
-- ⚡ Fakta menyenangkan: Saya suka bermain gitar dan bernyanyi 🤣
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adehikmatfr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adehikmatfr/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adehikmatfr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adehikmatfr/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adehikmatfr&hide_progress=true)
+
+## About Me
+
+- 🦸‍♂️ I'm currently working as a freelancer. Connect with me on [LinkedIn][linkedin]!
+- 🌱 I'm constantly learning and exploring new technologies.
+- 👯 I'm looking to collaborate with other content creators.
+- 🥅 My goal for 2020 is to advance my career as a programmer.
+- ⚡ Fun fact: I love playing guitar and singing!
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem.adehikmatfr.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-### Bergabung dengan saya:
+### Connect with Me
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](YOUTUBE_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](INSTAGRAM_LINK)
 
-<br />
+## Languages and Tools
 
-### Languages and Tools: 
-
-<img align="left" alt="Visual Studio Code" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Php" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="laravel" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="JavaScript" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="React" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
-## join with my first account github
-
-[adehikmT](https://github.com/adehikmT)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-black?style=flat&logo=terminal&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/adehikmat
-[youtube]: https://www.youtube.com/channel/UCpZ-2cuPYGKO-LSR2YHTrAg/
-[instagram]: https://www.instagram.com/adehikmat_fr/
-[facebook]: https://www.facebook.com/adehikmat.fanzipauzan
+[youtube]: YOUTUBE_LINK
+[instagram]: INSTAGRAM_LINK
