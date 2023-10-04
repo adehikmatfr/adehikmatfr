@@ -21,7 +21,7 @@ My name is Ade Hikmat, and this is my primary GitHub account.
 ### Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](YOUTUBE_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adehikmat)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](INSTAGRAM_LINK)
 
 ## Languages and Tools
